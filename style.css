@@ -1,0 +1,134 @@
+/*BODY*/
+/*Style applied to the whole body*/
+body {
+    background-color: #ffffff;
+    font-family : Arial, Helvetica, sans-serif;
+}
+a:hover {
+    text-decoration: underline;
+}
+button:hover {
+    text-decoration: underline;
+}
+/*HEADER*/
+/*Style applied to the logo*/
+#logo {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width : 50%;
+}
+/*NAV BAR*/
+/*Style applied to the nav*/
+nav {
+    background-color: #0d0d0d;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/*Style applied to the list of elements of the menu*/
+.menu {
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #011C26;
+    text-align: center;
+}
+/*Style applied to each item of the menu list*/
+.menu_element {
+    display: inline;
+    background-color: #011C26;
+    color: #ffffff;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+}
+/*Style applied to the links in the menu*/
+.link_menu {
+    text-decoration: none;
+    color: #ffffff;
+}
+/*MAIN*/
+/*Style applied to the text in main*/
+.maintext {
+    text-align: center;
+}
+/*Style text Oops*/
+#oops {
+    font-size: 70px;
+    color: #D9303E;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: 300;
+}
+/*Style text It's seemed we have encounter an*/
+#encounter {
+    font-size: 30px;
+    font-weight: lighter;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+/*Style text Error 404*/
+#error {
+    font-size: 150px;
+    font-weight: bolder;
+    color: #D9303E;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+/*Style text Don't panic*/
+#panic {
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+/*Style applied to the button*/
+#button {
+    background-color: #D9303E;
+    font-size: 30px;
+    color:#F2EBDC;
+    padding: 15px;
+    border-radius: 15px;
+    border : 0px;
+    cursor: pointer;
+}
+/*FOOTER*/
+/*Social media*/
+.socialmenu {
+   text-align: center;
+}
+/*Style applied to Social media logo*/
+.social {
+    width: 50px;
+    height: 50px;
+}
+/*Style applied to Privacy, Help, Copyright...*/
+.termsfooter {
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+.terms {
+    color: #0d0d0d;
+    display: inline;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+}
+/*Style applied to the footer links*/
+.linkfooter {
+    text-decoration: none;
+    color: #0d0d0d;
+}
