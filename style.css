@@ -46,7 +46,7 @@ nav {
     display: inline;
     background-color: #011C26;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
     margin-right: 10px;
     margin-left: 10px;
     text-align: justify;
@@ -63,22 +63,22 @@ nav {
 }
 /*Style text Oops*/
 #oops {
-    font-size: 70px;
+    font-size: 60px;
     color: #D9303E;
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     font-weight: 300;
 }
 /*Style text It's seemed we have encounter an*/
 #encounter {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: lighter;
     margin-bottom: 0px;
     margin-top: 10px;
 }
 /*Style text Error 404*/
 #error {
-    font-size: 150px;
+    font-size: 100px;
     font-weight: bolder;
     color: #D9303E;
     margin-bottom: 10px;
@@ -93,7 +93,7 @@ nav {
 /*Style applied to the button*/
 #button {
     background-color: #D9303E;
-    font-size: 30px;
+    font-size: 20px;
     color:#F2EBDC;
     padding: 15px;
     border-radius: 15px;
@@ -107,8 +107,8 @@ nav {
 }
 /*Style applied to Social media logo*/
 .social {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
 }
 /*Style applied to Privacy, Help, Copyright...*/
 .termsfooter {
@@ -122,7 +122,7 @@ nav {
 .terms {
     color: #0d0d0d;
     display: inline;
-    font-size: 20px;
+    font-size: 15px;
     margin-right: 10px;
     margin-left: 10px;
     text-align: justify;
