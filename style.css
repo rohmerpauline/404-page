@@ -7,9 +7,6 @@ body {
 a:hover {
     text-decoration: underline;
 }
-button:hover {
-    text-decoration: underline;
-}
 /*HEADER*/
 /*Style applied to the logo*/
 #logo {
@@ -99,6 +96,11 @@ nav {
     border-radius: 15px;
     border : 0px;
     cursor: pointer;
+}
+/*Animation on the button*/
+#button:hover {
+    transform: scale(2);
+    text-decoration: underline;
 }
 /*FOOTER*/
 /*Social media*/
